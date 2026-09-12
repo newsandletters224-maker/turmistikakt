@@ -143,7 +143,7 @@ export function generateDocument(data: FormData): void {
           spacing: { after: 100 },
           children: [
             new TextRun({
-              text: '1. Азаматтың (шақтың) Т.А.Ә.: ',
+              text: '1. Азаматтың (шаның) Т.А.Ә.: ',
               size: 24,
               font: 'Times New Roman',
             }),
